@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { use} from 'react'
 
 function Home() {
     console.log(" fruit 🍏 ")
